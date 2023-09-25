@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @nodlessoup
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+_안녕하세요 @nodlessoup 입니다_
 
-(https://media.giphy.com/media/oKLNQQ6OIeSU8/giphy.gif)
-<!---
-nodlessoup/nodlessoup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+_저는 알루라 학생입니다_
+
+_프로그래밍을 시작해요_
+
+
+(https://tenor.com/pt-BR/view/studio-ghibli-anime-gif-9397980)
