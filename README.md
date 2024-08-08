@@ -4,4 +4,4 @@ _저는 알루라 학생입니다_
 
 _프로그래밍을 시작해요_
 
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG82ZGFtd2l4azhrdm54dWpkaGV2ZWZvaTlnNnlhMzllOTRvNG83cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PeOnYlW8AmjcQEc2bZ/giphy.webp)
+![](https://i.pinimg.com/originals/d8/ef/f3/d8eff30e7470bf3efbbc05eb98c94d1e.gif)
